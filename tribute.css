@@ -1,0 +1,46 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(240, 224, 224) ;
+    background-size: cover;
+    border-style: groove;
+    margin:10px 50px 10px 50px;
+    border: 10px solid rgb(21, 148, 18);
+    outline-style: double;
+    outline-color: rgb(211, 81, 164);
+    outline-width: thick;
+    padding: 30px;
+    text-align: justify;
+    letter-spacing: 0.5px;
+}
+h1{
+    color: rgb(28, 61, 228);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4{
+    font-size: 25px;
+}
+img{
+    height: 350px;
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+  font-size: 17px;
+  color: black;
+  font-family: verdana;
+}
+section {
+    margin: 6%;
+    font-size: 20px;
+}
+nav{
+    margin: 6%; 
+    font-size: 20px;  
+}
+footer{
+    margin: 6%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
